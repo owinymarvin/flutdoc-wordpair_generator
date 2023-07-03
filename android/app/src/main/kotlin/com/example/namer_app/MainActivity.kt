@@ -1,4 +1,4 @@
-package com.example.wordpair_generator
+package com.example.namer_app
 
 import io.flutter.embedding.android.FlutterActivity
 

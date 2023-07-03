@@ -1,4 +1,4 @@
-# wordpair_generator
+# namer_app
 
 A new Flutter project.
 
